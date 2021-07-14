@@ -19,6 +19,10 @@ int main () {
 
   return 0;
 }
+
+Output:
+lower_bound at position 3
+upper_bound at position 6
 ```
 - ```lower_bound``` >=
 - ```upper_bound``` >
